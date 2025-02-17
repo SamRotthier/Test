@@ -1,0 +1,1 @@
+In this project I play around with the api of CoinGecko and display this in the browser (frontend).
